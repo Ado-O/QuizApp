@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2QuizApp</string>
+    <string name="naslov_text">Quiz o hrani. Ispred tebe su 5pitanja pokusaj da odgovoris tacno na sve.
+        Nakon zavrsetka pritisni dugme REZULTAT </string>
+    <string name="prvo_pitanje">Moderna pizza započinje svoj uspon 1889. godine. Kako se zove prva pizza?</string>
+    <string name="drugo_pitanje">Koja se hrana nekada koristila kao valuta?</string>
+    <string name="trece_pitanje">Koja od navedeni prakticno nema rok trajanja?</string>
+    <string name="cetvrto_pitanje">Od koje se hrane izrađuje dinamit?</string>
+    <string name="peto_pitanje">u 19 stolječu u Zapadnoj Evropi koja se hrana prodavala kao lijek?</string>
+</resources>
